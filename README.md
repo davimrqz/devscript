@@ -1,6 +1,6 @@
 # devscript
 Meu perfil profissional, estruturado com a base de tudo: HTML.
-# Currículo de Davi Marques Cardoso
+# CV.
 
 ![Foto do Currículo](curriculo.jpg)
 
